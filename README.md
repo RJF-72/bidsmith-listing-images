@@ -1,3 +1,7 @@
 # bidsmith-listing-images
 
-Public host for BidSmith listing graphics.
+Public host for the BidSmith/SideProjectors listing graphics:
+- soundscape-pilot/ (SoundScape Pilot)
+- stack-save/ (Stack & Save)
+- contractsmith/ (ContractSmith)
+- fixit/ (FixIt)
